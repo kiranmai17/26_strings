@@ -2,7 +2,7 @@
 DATE=16TH NOV 2022
 DAY= WEDNESDAY
 TOPIC= STRINGS
-AUTHOR= POOJA
+AUTHOR= KIRANMAI
 '''
 k='global'
 print(k.index('b')) #3
